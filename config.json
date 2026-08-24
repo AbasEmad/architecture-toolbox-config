@@ -8,7 +8,7 @@
     "email": "https://www.youtube.com/watch?v=X-jdl9hcCeg&list=RDX-jdl9hcCeg&start_radio=1"
 },
   "promotion": {
-    "enabled": false,
+    "enabled": true,
     "title": "دورة Revit",
     "description": "تعلم Revit من الصفر",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Autodesk_Revit_logo_2023.svg/1024px-Autodesk_Revit_logo_2023.svg.png",
