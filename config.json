@@ -1,0 +1,15 @@
+{
+  "social": {
+    "youtube": "https://youtube.com/",
+    "instagram": "https://instagram.com/",
+    "telegram": "https://t.me/",
+    "linkedin": "https://linkedin.com/"
+  },
+  "promotion": {
+    "enabled": true,
+    "title": "دورة Revit",
+    "description": "تعلم Revit من الصفر",
+    "image": "https://example.com/course.jpg",
+    "url": "https://example.com/course"
+  }
+}
