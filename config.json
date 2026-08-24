@@ -1,17 +1,17 @@
 {
   "social": {
-    "youtube": "https://youtube.com/",
+    "youtube": "https://www.youtube.com/watch?v=X-jdl9hcCeg&list=RDX-jdl9hcCeg&start_radio=1",
     "instagram": "https://instagram.com/",
     "telegram": "https://t.me/",
     "linkedin": "https://linkedin.com/",
     "alllink ": "https://linkedin.com/",
     "email": "https://linkedin.com/"
-  },
+},
   "promotion": {
     "enabled": true,
     "title": "دورة Revit",
     "description": "تعلم Revit من الصفر",
-    "image": "https://example.com/course.jpg",
-    "url": "https://example.com/course"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Autodesk_Revit_logo_2023.svg/1024px-Autodesk_Revit_logo_2023.svg.png",
+    "url": "https://www.youtube.com/watch?v=rOjHhS5MtvA&list=RDrOjHhS5MtvA&start_radio=1"
   }
 }
