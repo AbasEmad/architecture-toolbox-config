@@ -3,7 +3,9 @@
     "youtube": "https://youtube.com/",
     "instagram": "https://instagram.com/",
     "telegram": "https://t.me/",
-    "linkedin": "https://linkedin.com/"
+    "linkedin": "https://linkedin.com/",
+    "alllink ": "https://linkedin.com/",
+    "email": "https://linkedin.com/"
   },
   "promotion": {
     "enabled": true,
