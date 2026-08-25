@@ -6,7 +6,7 @@
     "telegram": "https://t.me/",
     "linkedin": "https://linkedin.com/",
     "alllink": "https://linkedin.com/",
-    "email": "https://www.youtube.com/watch?v=X-jdl9hcCeg&list=RDX-jdl9hcCeg&start_radio=1"
+    "email": "mailto:your@email.com"
   },
   "promotion": {
     "enabled": true,
