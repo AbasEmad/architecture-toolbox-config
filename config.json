@@ -1,18 +1,38 @@
 {
-  "version": 2,
+  "version": 1,
+
   "social": {
-    "youtube": "https://www.youtube.com/watch?v=X-jdl9hcCeg&list=RDX-jdl9hcCeg&start_radio=1",
-    "instagram": "https://instagram.com/",
-    "telegram": "https://t.me/",
-    "linkedin": "https://linkedin.com/",
-    "alllink": "https://www.youtube.com/watch?v=1yx1aV7Av2M&list=RD1yx1aV7Av2M&start_radio=1",
+    "youtube": "https://youtube.com/@YOUR_CHANNEL",
+    "instagram": "https://instagram.com/YOUR_USERNAME",
+    "telegram": "https://t.me/YOUR_USERNAME",
+    "linkedin": "https://linkedin.com/in/YOUR_USERNAME",
+    "alllink": "https://linktr.ee/YOUR_USERNAME",
     "email": "mailto:your@email.com"
   },
-  "promotion": {
-    "enabled": true,
-    "title": "دورة Revit",
-    "description": "تعلم Revit من الصفر",
-    "image": "https://cdn.iconscout.com/icon/free/png-512/free-autodesk-revit-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-1-pack-logos-icons-3029881.png",
-    "url": "https://www.youtube.com/watch?v=rOjHhS5MtvA&list=RDrOjHhS5MtvA&start_radio=1"
+
+  "ads": {
+    "mainBanner": {
+      "enabled": true,
+      "title": "عنوان الإعلان الرئيسي",
+      "description": "وصف الإعلان الرئيسي",
+      "image": "https://example.com/main-banner.jpg",
+      "url": "https://example.com"
+    },
+
+    "native": {
+      "enabled": true,
+      "title": "عنوان الإعلان Native",
+      "description": "وصف الإعلان Native",
+      "image": "https://example.com/native-ad.jpg",
+      "url": "https://example.com"
+    },
+
+    "toolBanner": {
+      "enabled": true,
+      "title": "عنوان الإعلان الثالث",
+      "description": "وصف الإعلان الثالث",
+      "image": "https://example.com/tool-banner.jpg",
+      "url": "https://example.com"
+    }
   }
 }
