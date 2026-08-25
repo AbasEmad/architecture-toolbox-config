@@ -9,7 +9,7 @@
     "email": "mailto:your@email.com"
   },
   "promotion": {
-    "enabled": true,
+    "enabled": false,
     "title": "دورة Revit",
     "description": "تعلم Revit من الصفر",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Autodesk_Revit_logo_2023.svg/1024px-Autodesk_Revit_logo_2023.svg.png",
