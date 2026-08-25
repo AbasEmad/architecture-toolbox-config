@@ -12,7 +12,7 @@
 
   "ads": {
     "mainBanner": {
-      "enabled": false,
+      "enabled": true,
       "title": "عنوان الإعلان الرئيسي",
       "description": "وصف الإعلان الرئيسي",
       "image": "https://example.com/main-banner.jpg",
