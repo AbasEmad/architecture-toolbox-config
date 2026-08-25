@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.5,
 
   "social": {
     "youtube": "https://youtube.com/@YOUR_CHANNEL",
@@ -12,7 +12,7 @@
 
   "ads": {
     "mainBanner": {
-      "enabled": true,
+      "enabled": false,
       "title": "عنوان الإعلان الرئيسي",
       "description": "وصف الإعلان الرئيسي",
       "image": "https://example.com/main-banner.jpg",
