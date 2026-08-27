@@ -21,7 +21,7 @@
 
     "native": {
       "enabled": true,
-      "title": "  منور عنوان الإعلان Native",
+      "title": "  منور2 عنوان الإعلان Native",
       "description": "وصف الإعلان Native",
       "image": "https://example.com/native-ad.jpg",
       "url": "https://example.com"
