@@ -2,7 +2,7 @@
   "version": 1.5,
 
   "social": {
-    "youtube": "https://youtube.com/@YOUR_CHANNEL",
+    "youtube": "https://www.youtube.com/watch?v=uXuG1k4K81o&list=RDuXuG1k4K81o&start_radio=1",
     "instagram": "https://instagram.com/YOUR_USERNAME",
     "telegram": "https://t.me/YOUR_USERNAME",
     "linkedin": "https://linkedin.com/in/YOUR_USERNAME",
@@ -13,15 +13,15 @@
   "ads": {
     "mainBanner": {
       "enabled": true,
-      "title": "عنوان الإعلان الرئيسي",
-      "description": "وصف الإعلان الرئيسي",
-      "image": "https://example.com/main-banner.jpg",
-      "url": "https://example.com"
+      "title": "شَجَرَتِي",
+      "description": "نساهم من خلالها في تحسين وتطوير مدننا عبر مبادرات التشجير، وتأهيل الحدائق، وتوفير الأثاث الحضري لبيئة مستدامة وأفضل للجميع.",
+      "image": "https://cdn.jsdelivr.net/gh/AbasEmad/logo@main/Screenshot%202026-08-27%20115338.png",
+      "url": "https://seagreen-octopus-480728.hostingersite.com/"
     },
 
     "native": {
       "enabled": true,
-      "title": "عنوان الإعلان Native",
+      "title": "  منور عنوان الإعلان Native",
       "description": "وصف الإعلان Native",
       "image": "https://example.com/native-ad.jpg",
       "url": "https://example.com"
@@ -29,7 +29,7 @@
 
     "toolBanner": {
       "enabled": true,
-      "title": "عنوان الإعلان الثالث",
+      "title": "3 عنوان الإعلان الثالث",
       "description": "وصف الإعلان الثالث",
       "image": "https://example.com/tool-banner.jpg",
       "url": "https://example.com"
